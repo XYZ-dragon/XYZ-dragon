@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @XYZ-dragon
-- This's my blog site:https://zuotun.xyz/
-- another site:https://blueeyeswhitedragon.xyz/
+- This's my blog site:https://blueeyeswhitedragon.xyz/
 - a freshman
 - 20岁,是学生
 
