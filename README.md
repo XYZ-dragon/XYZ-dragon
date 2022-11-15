@@ -1,6 +1,6 @@
 个人博客: https://blueeyeswhitedragon.xyz/
 
-正在学(加入收藏夹
+希望自己也能向别人一样贴瓷砖!
 
 懒狗日记:
 
