@@ -1,4 +1,4 @@
-个人博客: https://blueeyeswhitedragon.xyz/ (12月域名可能过期)
+个人博客: https://kazusa.cc/ (新博客,预计12月初过备案)
 
 ~~希望自己也能向别人一样贴瓷砖!~~ 目标是消除白块.
 
