@@ -48,5 +48,5 @@ jobs:
           plugin_lines: yes
           plugin_rss: yes
           plugin_rss_limit: 4
-          plugin_rss_source: https://blueeyeswhitedragon.xyz/feed/
+          plugin_rss_source: https://kazusa.cc/feed/
           repositories_affiliations: owner,collaborator
