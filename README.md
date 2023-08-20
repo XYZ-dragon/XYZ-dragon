@@ -4,12 +4,12 @@
 
 懒狗日记:
 
-![XYZ-dragon](https://ghchart.rshah.org/XYZ-dragon)
+![XYZ-dragon](https://ghchart.rshah.org/albus64)
 
 数据统计:
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=XYZ-dragon)
+![Statistics](https://github-readme-stats.vercel.app/api?username=albus64)
 
 语言占比:
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XYZ-dragon)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albus64)
