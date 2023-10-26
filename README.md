@@ -16,4 +16,4 @@ Recent activities:
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albaz64)
 
-![API_wallpaper](https://api.kazusa.cc/bing)
+![API_wallpaper](https://api.kazusa.cc/ygo)
