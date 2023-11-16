@@ -1,10 +1,8 @@
-A Linux enthusiast, using EndeavorOS.
+A Linux enthusiast, using Arch Linux.
 
 Language: JavaScript, Python, PHP
 
 Editor: VS Code + Vim
-
-University student
 
 Personal blog: https://kazusa.cc
 
