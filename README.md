@@ -1,10 +1,12 @@
-A Linux enthusiast, using Arch Linux.
+# Introduction
 
-Language: JavaScript, Python, PHP
+A Linux enthusiast, using Arch Linux.
 
 Editor: VS Code + Vim
 
-Personal blog: https://kazusa.cc
+Personal blog: <https://kazusa.cc>
+
+Learning: git docker kubernetes
 
 Recent activities:
 
