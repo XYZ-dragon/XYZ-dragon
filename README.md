@@ -1,14 +1,14 @@
 # Introduction
 
-A Linux enthusiast, using Arch Linux.
+A Linux enthusiast, using Arch Linux and FreeBSD.
 
 Editor: VS Code + Vim
 
-Personal blog: <https://kazusa.cc>
+My blog: <https://kazusa.cc>
 
-Learning: git docker kubernetes
+Learning: git docker kubernetes jail
 
-Recent activities:
+## Recent
 
 ![Recent activities](https://ghchart.rshah.org/albaz64)
 
